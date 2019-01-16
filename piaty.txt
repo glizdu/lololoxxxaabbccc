@@ -7,3 +7,4 @@ Tez troche tu namieszamy.
 Bo moge! 
 Nie możesz!
 Trochę tekstu.
+Tekscik sprawdzajacy roznice w logach.
