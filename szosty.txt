@@ -1,2 +1,4 @@
 Nowy plik. Testy zdalnego repo. 
 Trzymajcie kciuki.
+
+Nowe zmiany. Ciekawe, ciekawe.
